@@ -1,4 +1,4 @@
-# Hacking-y-Seguridad-Informatica                                | 
+# Hacking-y-Seguridad-Informatica                                
 Análisis y pruebas de penetración a sistemas informáticos.       |
 -----------------------------------------------------------------*
 Este documento es un paper el cual contiene un panorama de la seguridad informatica
